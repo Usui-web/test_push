@@ -28,7 +28,7 @@ Gitの使い方について
 さらに追加する場合
 >git add test.txt
 
->git commit -m "はじめてのプッシュ"
+>git commit -m "2回目のプッシュ"
 
 >git push
 
