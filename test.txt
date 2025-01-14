@@ -24,3 +24,11 @@ Gitの使い方について
 >git remote add origin https://github.com/Usui-web/test_push.git
 
 >git push --set-upstream origin master
+
+さらに追加する場合
+>git add test.txt
+
+>git commit -m "はじめてのプッシュ"
+
+>git push
+
