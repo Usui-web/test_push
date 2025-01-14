@@ -1,0 +1,12 @@
+Gitの使い方について
+
+
+>mkdir github
+
+>cd github 
+
+>mkdir apppro_test
+
+>cd apppro_test
+
+>notepad test.text
