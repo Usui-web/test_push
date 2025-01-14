@@ -10,3 +10,17 @@ Gitの使い方について
 >cd apppro_test
 
 >notepad test.text
+
+>git init
+
+>git config --global user.email "ee33044b@nagaoka-ct.ac.jp"
+
+>git config --global user.name "Usui-web"
+
+>git add test.txt
+
+>git commit -m "はじめてのプッシュ"
+
+>git remote add origin https://github.com/Usui-web/test_push.git
+
+>git push --set-upstream origin master
