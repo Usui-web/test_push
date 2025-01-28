@@ -4,7 +4,6 @@
 git clone https://github.com/Usui-web/test_push.git
 ```
 
-#は節、##は項,
 アポ、アットマークシフト3回で囲むとプログラムになるお
 
 ## gitでブランチ作る
@@ -15,7 +14,7 @@ git branch
 ```
 - ブランチの作成
 ```
-gir brunch test_branch
+git brunch test_branch
 ```
 
 - ぶらんちの移動
