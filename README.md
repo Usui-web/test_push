@@ -9,16 +9,16 @@ git clone https://github.com/Usui-web/test_push.git
 
 ## gitでブランチ作る
 
--今のブランチ確認
+- 今のブランチ確認
 ```
 git branch
 ```
--ブランチの作成
+- ブランチの作成
 ```
 gir brunch test_branch
 ```
 
--ぶらんちの移動
+- ぶらんちの移動
 ```
 git checkout test_branch
 ```
