@@ -24,7 +24,7 @@ Python 3.11.9
 作成した仮想環境をアクティブにします。
 
 ```
- $ ./venv/Script/activate
+ $ ./venv/Scripts/activate
 ```
 
 仮想環境にPySimpleGUIをインストールします。
